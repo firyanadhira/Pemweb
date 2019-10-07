@@ -1,0 +1,12 @@
+.kotak-transparan{
+	width: 700px;
+	height: 650px;
+	background:rgba(0,0,0, 0.4);
+}
+.form-input{
+	width: 500px;
+	margin-left: 100px;
+}
+.form-mhs{
+	font-family: 'Patua One', cursive;
+}
